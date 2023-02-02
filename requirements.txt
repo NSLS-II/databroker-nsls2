@@ -1,0 +1,1 @@
+hdf5plugin  # The HDF5 LZ4 plugin is used by some Area Detectors. One example is the Eigers at CHX.
